@@ -32,7 +32,7 @@ Proje, veteriner çalışanlarının sisteme doktorları, müşterileri, hayvanl
 - HTTP durum kodları anlamlı şekilde kullanılmıştır.
 - Hatalar API kullanıcılarına anlamlı çıktılar verir ve yönetilir.
 - Request ve Response DTO'ları kullanılabilir.
-- API endpointlerini tanımlayan bir doküman hazırlanmıştır.
+- API endpointlerini tanımlayan bir doküman hazırlanmıştır. [endpoints.md]
 
 ## Teknolojiler
 
